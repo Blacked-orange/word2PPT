@@ -1,0 +1,10 @@
+D:\word2ppt\word2ppt\bin\Debug\word2ppt.exe.config
+D:\word2ppt\word2ppt\bin\Debug\word2ppt.exe
+D:\word2ppt\word2ppt\bin\Debug\word2ppt.pdb
+D:\word2ppt\word2ppt\bin\Debug\DocumentFormat.OpenXml.dll
+D:\word2ppt\word2ppt\bin\Debug\DocumentFormat.OpenXml.xml
+D:\word2ppt\word2ppt\obj\Debug\word2ppt.csprojAssemblyReference.cache
+D:\word2ppt\word2ppt\obj\Debug\word2ppt.csproj.CoreCompileInputs.cache
+D:\word2ppt\word2ppt\obj\Debug\word2ppt.csproj.CopyComplete
+D:\word2ppt\word2ppt\obj\Debug\word2ppt.exe
+D:\word2ppt\word2ppt\obj\Debug\word2ppt.pdb
